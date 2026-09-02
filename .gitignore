@@ -9,8 +9,3 @@ desktop.ini
 
 # Netlify CLI local state
 .netlify/
-
-# Stray duplicate of assets/files/Kumar-Prasannajit-Sahu-Resume.pdf that
-# was left sitting in the project root, under a different filename, and
-# isn't referenced anywhere in index.html.
-/Kumar_Prasannajit_Sahu.pdf
